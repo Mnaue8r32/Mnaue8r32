@@ -7,17 +7,28 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mnaue8r32-181717?style=for-the-badge&logo=github)](https://github.com/Mnaue8r32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--manuel--cruz--beltran-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-manuel-cruz-beltran)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![Status](https://img.shields.io/badge/🟢_Disponible-para_nuevas_oportunidades-00d97e?style=for-the-badge)](https://github.com/Mnaue8r32)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## 👤 &nbsp;Sobre mí
+
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=6&hide=html,css"/>
+
+Soy **Full Stack Software Engineer** especializado en construir sistemas empresariales robustos y escalables. Me apasiona aplicar **Clean Architecture**, **Domain-Driven Design** y prácticas modernas de **DevOps** en cada proyecto.
+
+- 🏗️ &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
+- 🔐 &nbsp;Seguridad: **JWT · RBAC · API Key**
+- 🚀 &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
+- 🌎 &nbsp;Idiomas: Español nativo · Inglés B2
+
+<br clear="right"/>
+
+---
 
 <div align="center">
 
@@ -58,61 +69,58 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🚀 &nbsp;Proyectos Destacados
 
-<br/>
-
-<br/>
-
 ---
-
-<br/>
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mnaue8r32&show_icons=true&theme=github_dark&hide_border=false&border_color=1e2d3d&bg_color=0d1117&title_color=00d9ff&icon_color=7b61ff&text_color=8b9cb0&ring_color=00d9ff&count_private=true&include_all_commits=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mnaue8r32&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7b61ff&text_color=8b9cb0&ring_color=00d9ff&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=8"/>
 
-![Streak](https://streak-stats.demolab.com?user=Mnaue8r32&theme=github-dark-blue&hide_border=false&border=1e2d3d&background=0d1117&stroke=1e2d3d&ring=00d9ff&fire=7b61ff&currStreakLabel=00d9ff&sideLabels=8b9cb0&dates=3f3f46&currStreakNum=ffffff&sideNums=ffffff)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=false&border_color=1e2d3d&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=8)
+<img width="60%" src="https://streak-stats.demolab.com?user=Mnaue8r32&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00d9ff&fire=7b61ff&currStreakLabel=00d9ff&sideLabels=8b9cb0&dates=3f3f46&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🏗️ &nbsp;Arquitectura & Principios
 
 <div align="center">
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Layered_%26_Hexagonal-00d9ff?style=flat-square&labelColor=0d1117)
-![DDD](https://img.shields.io/badge/Domain_Driven_Design-Value_Objects_%26_UseCases-7b61ff?style=flat-square&labelColor=0d1117)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-Daily_Practice-00ff88?style=flat-square&labelColor=0d1117)
-![RBAC](https://img.shields.io/badge/Security-JWT_%2B_RBAC_%2B_API_Key-ff8c42?style=flat-square&labelColor=0d1117)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%2B_SonarCloud-ff4d6a?style=flat-square&labelColor=0d1117)
+<br/>
+
+![](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=)
+![](https://img.shields.io/badge/Layered_%26_Hexagonal-00d9ff?style=for-the-badge&labelColor=00d9ff&color=00d9ff)
+
+![](https://img.shields.io/badge/Domain_Driven_Design-0d1117?style=for-the-badge&labelColor=0d1117&color=7b61ff)
+![](https://img.shields.io/badge/Value_Objects_%7C_UseCases_%7C_Aggregates-7b61ff?style=for-the-badge&labelColor=7b61ff&color=7b61ff)
+
+![](https://img.shields.io/badge/SOLID_Principles-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff88)
+![](https://img.shields.io/badge/Clean_Code_%7C_Daily_Practice-00ff88?style=for-the-badge&labelColor=00ff88&color=00ff88)
+
+![](https://img.shields.io/badge/Security-0d1117?style=for-the-badge&labelColor=0d1117&color=ff8c42)
+![](https://img.shields.io/badge/JWT_%2B_RBAC_%2B_API_Key-ff8c42?style=for-the-badge&labelColor=ff8c42&color=ff8c42)
+
+![](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4d6a)
+![](https://img.shields.io/badge/GitHub_Actions_%2B_SonarCloud-ff4d6a?style=for-the-badge&labelColor=ff4d6a&color=ff4d6a)
+
+<br/>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
 *— Disponible para proyectos freelance, posiciones full-time y colaboraciones interesantes —*
+
+<br/>
 
 ![Views](https://komarev.com/ghpvc/?username=Mnaue8r32&color=00d9ff&style=flat-square&label=profile+views)
 

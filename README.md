@@ -7,9 +7,9 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mnaue8r32-181717?style=for-the-badge&logo=github)](https://github.com/Mnaue8r32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--manuel--cruz--beltran-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/juan-manuel-cruz-beltran)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.cruzb@gmail.com)
-[![Status](https://img.shields.io/badge/🟢_Disponible-para_nuevas_oportunidades-00d97e?style=for-the-badge)](https://github.com/Mnaue8r32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--manuel--cruz--beltran-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-manuel-cruz-beltran)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.cruzbel@gmail.com)
+[![Status](https://img.shields.io/badge/🟢_Disponible-para_nuevas_oportunidades-00d97e?style=for-the-badge)](https://www.linkedin.com/in/juan-manuel-cruz-beltran)
 
 </div>
 

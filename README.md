@@ -68,13 +68,13 @@
 
 <br/>
 
-[![ERP JMS](https://github-readme-stats.vercel.app/api/pin/?username=Mnaue8r32&repo=erp-jms-frontend&theme=github_dark&hide_border=false&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b9cb0)](https://github.com/Mnaue8r32/erp-jms-frontend)
+[![ERP JMS](&theme=github_dark&hide_border=false&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b9cb0)](https://github.com/Mnaue8r32/erp-jms-frontend)
 &nbsp;
-[![ZyBus](https://github-readme-stats.vercel.app/api/pin/?username=Mnaue8r32&repo=backend_zybus&theme=github_dark&hide_border=false&border_color=7b61ff&bg_color=0d1117&title_color=7b61ff&icon_color=7b61ff&text_color=8b9cb0)](https://github.com/Mnaue8r32/backend_zybus)
+[![ZyBus] (b_dark&hide_border=false&border_color=7b61ff&bg_color=0d1117&title_color=7b61ff&icon_color=7b61ff&text_color=8b9cb0)](https://github.com/Mnaue8r32/backend_zybus)
 
-[![Facturación](https://github-readme-stats.vercel.app/api/pin/?username=Mnaue8r32&repo=electronic-invoicing-api&theme=github_dark&hide_border=false&border_color=00ff88&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b9cb0)](https://github.com/Mnaue8r32/electronic-invoicing-api)
+[![Facturación](88&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b9cb0)](https://github.com/Mnaue8r32/electronic-invoicing-api)
 &nbsp;
-[![OrdenaYa](https://github-readme-stats.vercel.app/api/pin/?username=Mnaue8r32&repo=ordenaya-web&theme=github_dark&hide_border=false&border_color=ff8c42&bg_color=0d1117&title_color=ff8c42&icon_color=ff8c42&text_color=8b9cb0)](https://github.com/Mnaue8r32/ordenaya-web)
+[![OrdenaYa](false&border_color=ff8c42&bg_color=0d1117&title_color=ff8c42&icon_color=ff8c42&text_color=8b9cb0)](https://github.com/Mnaue8r32/ordenaya-web)
 
 <br/>
 

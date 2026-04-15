@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Spring+Boot+%E2%80%A2+Angular+18+%E2%80%A2+FastAPI+%E2%80%A2+React;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Hexagonal;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+SonarCloud+%E2%80%A2+Redis;Construyendo+sistemas+que+escalan+%E2%86%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+FastAPI+%E2%80%A2+React;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Hexagonal;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+SonarCloud+%E2%80%A2+Redis;Construyendo+sistemas+que+escalan+%E2%86%97)](https://git.io/typing-svg)
 
 <br/>
 

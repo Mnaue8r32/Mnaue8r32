@@ -70,24 +70,6 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 
 ---
 
-## 🚀 &nbsp;Proyectos Destacados
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mnaue8r32&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7b61ff&text_color=8b9cb0&ring_color=00d9ff&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=8"/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Mnaue8r32&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00d9ff&fire=7b61ff&currStreakLabel=00d9ff&sideLabels=8b9cb0&dates=3f3f46&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
 ## 🏗️ &nbsp;Arquitectura & Principios
 
 <div align="center">

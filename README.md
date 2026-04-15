@@ -24,7 +24,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 - 🏗️ &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
 - 🔐 &nbsp;Seguridad: **JWT · RBAC · API Key**
 - 🚀 &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
-- 🌎 &nbsp;Idiomas: Español nativo · Aprendiendo Inglés y Portugués
+- 🌎 &nbsp;Idiomas: Español nativo · Aprendiendo Inglés
 
 <br clear="right"/>
 

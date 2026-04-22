@@ -22,9 +22,9 @@
 Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasiona aplicar **Clean Architecture**, **Domain-Driven Design** y prácticas modernas de **DevOps** en cada proyecto.
 
 - 🏗️ &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
-- 🔐 &nbsp;Seguridad: **JWT · RBAC · API Key**
+- 🔐 &nbsp;Seguridad: **JWT · RBAC**
 - 🚀 &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
-- 🌎 &nbsp;Idiomas: Español nativo · Aprendiendo Inglés
+- 🌎 &nbsp;Idiomas: Español nativo · A2+
 
 <br clear="right"/>
 
@@ -64,7 +64,6 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
 </div>
 

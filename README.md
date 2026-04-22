@@ -85,7 +85,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 ![](https://img.shields.io/badge/Clean_Code_%7C_Daily_Practice-00ff88?style=for-the-badge&labelColor=00ff88&color=00ff88)
 
 ![](https://img.shields.io/badge/Security-0d1117?style=for-the-badge&labelColor=0d1117&color=ff8c42)
-![](https://img.shields.io/badge/JWT_%2B_RBAC_%2B_API_Key-ff8c42?style=for-the-badge&labelColor=ff8c42&color=ff8c42)
+![](https://img.shields.io/badge/JWT_%2B_RBAC_%2B?style=for-the-badge&labelColor=ff8c42&color=ff8c42)
 
 ![](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4d6a)
 ![](https://img.shields.io/badge/GitHub_Actions_%2B_SonarCloud-ff4d6a?style=for-the-badge&labelColor=ff4d6a&color=ff4d6a)
